@@ -6,3 +6,5 @@ firefox
 chrome
 
 patch 
+
+pai
