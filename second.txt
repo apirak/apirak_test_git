@@ -2,3 +2,7 @@ apple
 android
 bb
 firefox os
+firefox
+chrome
+
+patch 
