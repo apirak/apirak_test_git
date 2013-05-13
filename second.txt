@@ -2,6 +2,9 @@ apple
 android
 bb
 firefox os
+
+BEOS
+
 firefox
 chrome
 
